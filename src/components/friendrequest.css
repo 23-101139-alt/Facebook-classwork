@@ -1,0 +1,43 @@
+.friendrequestcardd{width: 332px;
+height: fit-content;
+border-radius: 7px;
+background: #F9F9F9;
+box-sizing: border-box;
+padding: 7px 14px;
+display: flex;
+flex-direction: column;
+gap: 8px;}
+
+.part1-friendrequest{display: flex;
+flex-direction: row;    align-items: center;
+justify-content: space-between;}
+
+.main-profile-box-friendrequest{display: flex;
+flex-direction: row;
+gap: 5px;
+align-items: center;}
+
+.name-friendrequest{color: #000;
+font-family: Arial;
+font-size: 13px;margin: 0;
+font-weight: 700;}
+
+.clock-friendrequest{color: #65676B;
+font-family: arial;
+font-size: 16px;margin: 0;
+font-weight: 400;}
+
+.ctaa-group-friendrequst{display: flex;
+flex-direction: row;
+gap: 15px;}
+
+.button2{width: 150px;
+height: 36px;border-radius: 7px;border-color: transparent;
+background: #E4E6EB;display:flex;
+justify-content: center;
+align-items: center;
+color: #000;
+font-family: Arial;
+font-size: 16px;
+font-weight: 700;
+line-height: normal;}

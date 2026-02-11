@@ -10,7 +10,7 @@ import Cardpic1 from '../components/cardpic';
 import Writebox from '../components/writebox';
 import Postt from '../components/post';
 import  Titlee from '../components/title';
-
+import  Requsttcard from '../components/friendrequest';
 
 
 const Home = () => {
@@ -76,7 +76,8 @@ const Home = () => {
                     <aside className='friendrequestbox'>
                         <Titlee />
                         <div className='cards-cont-friends-requst'>
-
+                            <Requsttcard />
+                            <Requsttcard />
                         </div>
                     </aside>
                 </section>
