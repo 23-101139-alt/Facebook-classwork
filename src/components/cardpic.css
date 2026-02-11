@@ -1,0 +1,28 @@
+.card-container-midd1{border-radius: 7px;
+background: #FFF;
+box-shadow: 0 4px 10px 2px rgba(0, 0, 0, 0.18);
+width: 170px;
+height: 215px;
+display: flex;flex-direction: column;align-items: center;
+    justify-content: center;}
+
+
+.pic-card1-mid{width: 160px;
+    margin-top: 4px;
+height: 172px;}
+
+.name-card-1-mide-container{display: flex;
+flex-direction: row;    margin-top: 5px;
+    align-items: center;
+    width: 160px;
+gap: 4px;}
+
+.small-profile-card1{width: 30px;
+height: 30px;}
+
+.name-cardd-sec1-mid{color: #000;
+font-family: arial;
+font-size: 16px;
+font-style: normal;margin: 0;padding: 0;
+font-weight: 400;
+line-height: normal;}

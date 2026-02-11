@@ -1,0 +1,10 @@
+.text-button-left{color: #000;
+font-family: arial;
+font-size: 17px;
+font-style: normal;
+font-weight: 600;margin: 0;
+line-height: normal;}
+
+.main-button-left{display: flex;
+flex-direction: row;align-items: center;
+gap: 10px;}

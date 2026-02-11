@@ -1,0 +1,12 @@
+.text-watch{color: #000;
+font-family: arial;
+font-size: 10px;
+font-style: normal;
+font-weight: 500;margin: 0;
+line-height: normal;}
+
+.container-icon-and-tex-aside{display: flex;
+flex-direction: row;align-items: center;
+width: 300px;
+    justify-content: flex-start;
+gap: 6px;}
