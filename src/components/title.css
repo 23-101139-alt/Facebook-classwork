@@ -1,0 +1,18 @@
+.title-font{color: #000;
+font-family: arial;
+font-size: 16px;
+font-style: normal;margin: 0;
+font-weight: 400;
+line-height: normal;}
+
+.link-seemore-font{color: #1877F2;
+font-family: Arial;
+font-size: 13px;margin: 0;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-decoration: none;}
+
+.box1-part3-aside{display: flex;
+flex-direction: row;    width: 300px;
+justify-content: space-between;}

@@ -9,6 +9,9 @@ import Buttonimgg from '../components/buttonimg';
 import Cardpic1 from '../components/cardpic';
 import Writebox from '../components/writebox';
 import Postt from '../components/post';
+import  Titlee from '../components/title';
+
+
 
 const Home = () => {
     return ( 
@@ -31,11 +34,11 @@ const Home = () => {
                         <Asidee />
                         <Asidee />
                         <Asidee />
-                     </aside>
-                        <div className='box1-part3-aside'>
-                            <h1 className='title-font'>Title</h1>
-                            <nav className='link-seemore-font' >See all</nav>
-                        </div>
+                    </aside>
+
+                      <aside className='container-leftpart-colum1'>
+ 
+                        <Titlee />
                         <button className='button-img-text-last-one-aside'>
                             <Buttonimgg />
                             <Buttonimgg />
@@ -44,6 +47,7 @@ const Home = () => {
                             <Buttonimgg />
                             <Buttonimgg />
                         </button>
+                    </aside>
 
                      <aside>
 
@@ -66,8 +70,15 @@ const Home = () => {
                         <Postt />
                         <Postt />
                     </div>
-                
+                </section>
 
+                <section className='colum3'>
+                    <aside className='friendrequestbox'>
+                        <Titlee />
+                        <div className='cards-cont-friends-requst'>
+
+                        </div>
+                    </aside>
                 </section>
 
 

@@ -79,3 +79,18 @@ margin-top: 16px;display: flex;
 .posts-group{display: flex;
 flex-direction: column;
 gap: 14px;}
+
+.colum3{display: flex;
+flex-direction: column;width: 332px;}
+
+.container-leftpart-colum1{display: flex;
+flex-direction: column;gap: 13px;}
+
+.friendrequestbox{display: flex;
+flex-direction: column;margin-top: 16px;
+gap: 8px;}
+
+.cards-cont-friends-requst{
+    display: flex;
+    flex-direction: column;gap: 13px;
+}
