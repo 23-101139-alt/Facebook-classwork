@@ -5,7 +5,7 @@ const Titlee = () => {
     return ( 
                          <div className='box1-part3-aside'>
                             <h1 className='title-font'>Title</h1>
-                            <nav className='link-seemore-font' >See all</nav>
+                            <a href='#' className='link-seemore-font' >See all</a>
                         </div>
      );
 }

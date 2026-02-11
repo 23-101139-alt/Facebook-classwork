@@ -11,6 +11,7 @@ import Writebox from '../components/writebox';
 import Postt from '../components/post';
 import  Titlee from '../components/title';
 import  Requsttcard from '../components/friendrequest';
+import  Newscard from '../components/news';
 
 
 const Home = () => {
@@ -80,8 +81,21 @@ const Home = () => {
                             <Requsttcard />
                         </div>
                     </aside>
+                    <aside className='friendrequestbox2'>
+                        <Titlee />
+                        <div className='new-big-container'>
+                        <Newscard />
+                        <Newscard />
+                        <Newscard />
+                        <Newscard />
+                        <Newscard />
+                        <Newscard />
+                        
+                        </div>
+                    </aside>
                 </section>
 
+        
 
 
            </main>
