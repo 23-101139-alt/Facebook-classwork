@@ -7,6 +7,7 @@ import pic1 from '../assets/pic1.png';
 import Asidee from '../components/watch';
 import Buttonimgg from '../components/buttonimg';
 import Cardpic1 from '../components/cardpic';
+import Writebox from '../components/writebox';
 
 const Home = () => {
     return ( 
@@ -55,6 +56,13 @@ const Home = () => {
                         <Cardpic1 />
                         <Cardpic1 />
                     </div>
+
+                    <div>
+                        <Writebox />
+                    </div>
+
+
+
                 </section>
 
 
