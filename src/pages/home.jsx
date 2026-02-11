@@ -26,6 +26,7 @@ const Home = () => {
                      <Headerr />
                      <Headerr />
                      </nav>
+                     <div className='emptydiv'></div>
             </header>
            <main className='mainn'>
                 <section className='left-bar'>
